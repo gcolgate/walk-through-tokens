@@ -4,8 +4,8 @@
   "description": "Lets tokens walk through hostile creatures. Extra movement cost for occupying a creature's space is unchanged.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "14.368",
-    "verified": "14.368"
+    "minimum": "14.367",
+    "verified": "14.367"
   },
   "authors": [
     {

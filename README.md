@@ -6,7 +6,7 @@ This module is separate from [Iris Rolls](https://github.com/gcolgate/iris-rolls
 
 ## Requirements
 
-- Foundry Virtual Tabletop **14.368**
+- Foundry Virtual Tabletop **14.367**
 - [D&D 5e](https://foundryvtt.com/packages/dnd5e) 5.3.3 or later (verified on 6.0.1)
 
 ## Install
