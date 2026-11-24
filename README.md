@@ -6,7 +6,7 @@ This module is separate from [Iris Rolls](https://github.com/gcolgate/iris-rolls
 
 ## Requirements
 
-- Foundry Virtual Tabletop **14.367**
+- Foundry Virtual Tabletop **14**
 - [D&D 5e](https://foundryvtt.com/packages/dnd5e) 5.3.3 or later (verified on 6.0.1)
 
 ## Install
@@ -18,6 +18,10 @@ https://github.com/gcolgate/walk-through-tokens/releases/latest/download/module.
 ```
 
 **From this repo** (local development): copy or clone the `walk-through-tokens` folder into `{userData}/Data/modules/walk-through-tokens`.
+
+## What's new in 1.0.1
+
+- Compatible with all Foundry VTT **14** builds (minimum `14`, not a specific 14.xxx patch).
 
 ## What's new in 1.0.0
 
